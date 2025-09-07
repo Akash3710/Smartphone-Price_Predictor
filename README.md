@@ -1,3 +1,6 @@
+<img src="smartphones_image.jpg" alt="image" width="800" height="400"/>
+
+
 # Smartphone Price Predictor
 
 In hhis project i have build a Machine learning Model to Predict the prices of various smarthphones on the basis of features like brand,ram,memory,processor_brand,camera ,os version and many other
