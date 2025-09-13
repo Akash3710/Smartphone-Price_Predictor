@@ -3,8 +3,16 @@
 
 # Smartphone Price Predictor
 
-In hhis project i have build a Machine learning Model to Predict the prices of various smarthphones on the basis of features like brand,ram,memory,processor_brand,camera ,os version and many other
-important features. I have used various Tree based Models in it like RandomForest regressor,decision Trees,Gradient Boosting,and XGBoost regressor.
+## Problem Statement
+Smartphone pricing is a critical challenge for businesses and consumers alike. With thousands of models launched every year, retailers often struggle to set competitive, data-driven prices, while consumers find it difficult to evaluate whether a device is worth its cost. This mismatch leads to inefficient pricing strategies, revenue loss for businesses, and poor decision-making for buyers.
+
+To solve this business problem, I built the Smartphone Price Predictor, a machine learning solution that leverages smartphone specifications (RAM, storage, battery, processor, camera, etc.) to predict prices with accuracy. The model provides:
+
+📊 Actionable insights for businesses to optimize pricing strategies and remain competitive in the market.
+
+🛒 Confidence for consumers in identifying fair prices and making smarter purchase decisions.
+
+By aligning product specifications with real market value, this project demonstrates how data science can directly impact pricing strategy, customer trust, and overall business performance
 
 ## Table of Contents
 1. [Dataset Description](#dataset-description)
