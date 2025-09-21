@@ -128,6 +128,12 @@ The training results for model are reported both **before** and **after** hypert
 
 ## Results
 
+### Training LinearRegression:
+| Metric | Scores |
+|--------|--------|
+| R2    | 0.7424   |
+|  Adjusted R2     |0.7388|
+
 ### Training Random Forest:
 | Metric | Scores |
 |--------|--------|
