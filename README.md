@@ -158,9 +158,9 @@ The training results for model are reported both **before** and **after** hypert
 ### XGBoost Regressor (Best Permoring Model)
 | Metric | Scores |
 |--------|--------|
-| RMSE    |9550.346933700199 |
-| R2    | 0.9042012011996108    |
-|  Adjusted R2     |0.9042012011996108|
+| RMSE    |8415.69541667071 |
+| R2    | 0.9256121880120487   |
+|  Adjusted R2     |0.9201019797166449|
 
 ## futher improvements
 - Expand the dataset with more recent smartphone data.
